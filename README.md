@@ -1,5 +1,11 @@
 # Hexacopter
 
+## 🧑‍💻 Author
+**T.Jaswanth Reddy**  
+Embedded Systems | Robotics | Drone Developer  
+• [LinkedIn](https://www.linkedin.com/in/thugu-jaswanth-reddy-12a72828b/)
+
+---
 ## 🛰️ Overview
 This project features a **custom-built hexacopter drone** designed for **aerial surveillance and monitoring**.  
 The drone integrates a high-resolution **camera system capable of vertical motion (0° to 90°)**, enabling detailed forward-level to ground-level observation during flight.  
@@ -55,13 +61,6 @@ Below is an image of the assembled hexacopter used in this project:
 - Integration of object detection using onboard AI (TensorFlow Lite / OpenCV).  
 - Autonomous path planning with ROS 2 Navigation Stack.  
 - Thermal or infrared camera module for night surveillance.  
-
----
-
-## 🧑‍💻 Author
-**Jaswant**  
-Embedded Systems | Robotics | Drone Developer  
-[GitHub Profile](https://github.com/JaswanthReddyT) • [LinkedIn](https://www.linkedin.com/in/thugu-jaswanth-reddy-12a72828b/)
 
 ---
 
