@@ -1,7 +1,4 @@
 # Hexacopter
-# Surveillance Hexacopter Drone
-
-![Surveillance Drone](Hexacopter.jpg)
 
 ## 🛰️ Overview
 This project features a **custom-built hexacopter drone** designed for **aerial surveillance and monitoring**.  
